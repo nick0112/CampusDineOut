@@ -1,0 +1,191 @@
+/*Form css*/
+
+
+input[type="text"]
+{
+	color:#19315B;
+	width:70%;
+}
+
+input[type="email"]
+{
+    color:#19315B;
+}
+
+input[type=submit]:hover
+{
+	color:red;
+}
+
+input#subscribe
+{
+	margin-top:15px;
+}
+
+input[type="submit"]
+{
+	margin-top:30px;
+
+	width:30%;
+	background-color:#008ae6;
+	padding:10px;
+	border:none;
+	border-radius:4px;
+	color:#002e4d;
+	font-weight:bold;
+	margin-right:30px;
+}
+
+label
+{
+	font-size:1.25em;
+	color:#5da5d7;
+	padding-right:20px;
+}
+
+
+textarea
+{
+    margin-top:20px;
+    width:71%;
+	resize:none;
+	border-radius:4px;
+	margin-left:75px;
+}
+   
+#name
+{
+	height:30px;
+	text-align:center;
+	background-image: url(images/nameIcon.png);
+	background-repeat: no-repeat;
+	background-position:5px;
+	background-size: 30px 30px;
+}
+
+
+#signUpEmail
+{
+	height:30px;
+	text-align:center;
+	width:70%;
+	margin-left:4px;
+    background-image: url(images/email.png);
+	background-repeat: no-repeat;
+	background-position:5px;
+	background-size: 30px 30px;
+}
+
+#gender
+{
+    color:#19135B;
+    width:5%;
+}
+
+#Restaurant
+{
+    height:30px;
+    width:72%;
+    margin-left:78px;
+    margin-top:20px;
+}
+
+
+
+.font-sizes
+{
+    font-size:1.1em;
+	padding-left:5px;
+	font-style:italic;
+}
+.addImage
+{
+
+    background-image: url(images/burger.png);
+	background-repeat: no-repeat;
+	background-position:0%;
+	background-size: 30px 30px;
+    padding-top:20px;
+    padding-bottom:20px;
+    margin-top:-50px;
+    
+}
+
+.commentImage
+{
+    background-image: url(images/comments.png);
+	background-repeat: no-repeat;
+	background-position:5px;
+	background-size: 30px 30px;
+    padding-bottom:30px;
+    margin-top:-95px;
+}
+
+
+.forms img
+{
+
+     margin-left:-5px;
+}
+
+.feedback-content h1
+{
+	
+	color:#5da5d7;
+	margin-top:-10px;
+	font-weight:bold;
+}
+
+.feedback-content p
+{
+    margin-top:50px;
+    font-size:0.75em;
+}
+
+.feedback-content
+{
+	margin:auto;
+	width: 30%;
+	border-radius: 33px 33px 33px 33px;
+    -moz-border-radius: 33px 33px 33px 33px;
+    -webkit-border-radius: 33px 33px 33px 33px;
+    border: 0px groove #3673eb;
+	margin-top:90px;
+    margin-bottom:300px;
+	padding:40px 100px 100px 100px;
+	background-color:#afe0f2;
+}
+
+.error
+{
+	color: #ff3232;
+	font-size: 0.95em;
+	padding-top:20px;
+	padding-bottom: 10px;
+}
+
+.valid
+{
+	padding-top:10px;
+	padding-bottom:10px;
+}
+
+.restError
+{
+	color: #ff3232;
+	font-size: 0.95em;
+	padding-bottom: 15px;
+}
+
+.commentError
+{
+	color: #ff3232;
+	font-size: 0.95em;
+	padding-top:20px;
+	padding-bottom: 10px;
+	clear:both;
+}
+
+
+
+
